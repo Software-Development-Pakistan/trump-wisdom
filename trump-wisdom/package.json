@@ -1,0 +1,15 @@
+{
+  "name": "jiay-bhutto",
+  "version": "1.0.0",
+  "description": "kal bhi bhutto zinda tha aj bhi bhutto zinda hai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Azeem Akhter",
+  "license": "MIT",
+  "dependencies": {
+    "fb": "^2.0.0",
+    "request": "^2.85.0"
+  }
+}
